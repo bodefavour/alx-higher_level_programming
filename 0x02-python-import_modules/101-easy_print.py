@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-__import__('os').system('echo #pythoniscool')
+with open('/dev/stdout', 'w') as f: f.write('#pythoniscool\n')
