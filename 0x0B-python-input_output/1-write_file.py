@@ -3,7 +3,7 @@
     of a text file
 """
 
-
+"""" Function that reads from a file and prints its number of lines"""
 def number_of_lines(filename=""):
     """ Function that reads from a file and prints its number of lines
 
