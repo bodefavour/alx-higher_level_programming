@@ -13,5 +13,5 @@ if (!isNaN(count) && count > 0) {
   }
 } else {
   // Print "Missing number of occurrences" if conversion fails or count is non-positive
-  console.log('Missing number of occurrences');
+  console.log();
 }
