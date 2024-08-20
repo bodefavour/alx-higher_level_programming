@@ -6,5 +6,5 @@ if (!isNaN(num1) && !isNaN(num2)) {
   const sum = num1 + num2;
   console.log(sum);
 } else {
-  process.exit();
+  console.log('NaN');
 }
